@@ -1,5 +1,5 @@
 SELECT title, year
 FROM movies
 WHERE title
-LIKE '%Chocolat%'
+LIKE '%Avatar%'
 ORDER BY year;
